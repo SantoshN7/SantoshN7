@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SantoshN7
-- 👀 I’m interested in Javascript & Web UI
+- 👀 I’m into Javascript & Web UI
 
 <!---
 SantoshN7/SantoshN7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
